@@ -1,4 +1,4 @@
 # xmltv
 
-Naponta frissülő Magyar nyelvű EPG.
+Naponta frissülő magyar nyelvű EPG.
 
