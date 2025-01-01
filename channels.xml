@@ -1,448 +1,226 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv generator-info-name="EPG.ANYTHING.HU, https://epg.anything.hu/all">
-  <channel id="AMC.hu">
     <display-name lang="hu">AMC HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/c9fb79c2d0314e22a6c0f5c85c80b725_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="AnimalPlanet.hu">
     <display-name lang="hu">Animal Planet HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/3d56e5a7b6ce4a04b49abde8c53df75e_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Arena4.hu">
     <display-name lang="hu">ARENA4 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/cac7ed27c4cb4d95bf656431ba78c0e8_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="MagyarATV.hu">
     <display-name lang="hu">ATV HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/0888d954b3954521b87ec9ada6174670_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="ATVSpirit.hu">
     <display-name lang="hu">ATV Spirit</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/a84630a787aa4e54b03b9b2ef9e08481_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="AXN.hu">
     <display-name lang="hu">AXN HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/98fbbfa25d2f48d78a493c22e04153b1_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Babytvenglish.hu">
     <display-name lang="hu">Baby TV</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/cb41a0fe051a43f3b5931b3ea1095c1c_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Bonumtv.hu">
     <display-name lang="hu">Bonum TV</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/47ee7842bde34f26968aa507218f1844_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Boomerang.hu">
     <display-name lang="hu">Boomerang</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/37b302c4c9fe405596f737a805bfc5b3_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="CartoonNetworkTCM.hu">
     <display-name lang="hu">Cartoon Network</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/d689186229d341a5827eef2e2fd17752_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Cbsreality.hu">
     <display-name lang="hu">CBS Reality</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/84a740dc89d84df8a88125eb53c90d0a_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Cinemax.hu">
     <display-name lang="hu">Cinemax</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/d30ebe78aa444073951f25ddb689d7e6_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Cinemax2.hu">
     <display-name lang="hu">Cinemax 2</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/801a7febceba482c85414c4e9d8185cc_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Cnnenglish.hu">
     <display-name lang="hu">CNN International</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/5b83b8b43e1e40aa99de18ccf42ad7d3_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="ComedyCentral.hu">
     <display-name lang="hu">Comedy Central</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/6279338a5013450cb9b97219d3d9ec4c_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="ComedyCentralFamily.hu">
     <display-name lang="hu">Comedy Central Family</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/4c2251e243cd4497994e0a894083d381_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Cool.hu">
     <display-name lang="hu">Cool HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/de7da4a19add4867974bf82a4206dfcc_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="DaVinciLearning.hu">
     <display-name lang="hu">Da Vinci Kids</display-name>
-    <icon src="https://static.mytvback.com/userfiles/a/0/a0acd98793e096172aec1ab1a6199624_thum_80x50.png"/>
   </channel>
-  <channel id="DigiAnimalWorld.hu">
     <display-name lang="hu">DIGI Animal World</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/digi-animal-world.png"/>
   </channel>
-  <channel id="DigiLife.hu">
     <display-name lang="hu">DIGI Life</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/digi-life.png"/>
   </channel>
-  <channel id="DigiSport1.hu">
     <display-name lang="hu">DIGI Sport 1</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/digi-sport-1-hd.png"/>
   </channel>
-  <channel id="DigiSport2.hu">
     <display-name lang="hu">DIGI Sport 2</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/digi-sport-2-hd.png"/>
   </channel>
-  <channel id="DigiSport3.hu">
     <display-name lang="hu">DIGI Sport 3</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/digi-sport-3-hd.png"/>
   </channel>
-  <channel id="DigiWorld.hu">
     <display-name lang="hu">DIGI World</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/digi-world.png"/>
   </channel>
-  <channel id="DikhTV.hu">
     <display-name lang="hu">Dikh TV</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/e98bc28f89a34e9499e2408b3ced12b4_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="DiscoveryChannel.hu">
     <display-name lang="hu">Discovery Channel</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/5c96ba5255594f53a053cfadb7d3202d_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="DiscoveryScience.hu">
     <display-name lang="hu">Discovery Science</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/2c94eeb0bbca4968b060c8a5b5ef86db_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="DTX.hu">
     <display-name lang="hu">Discovery Turbo Xtra (DTX)</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/b5ea7633765b4e1d92e114dc0a3f563b_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="DisneyChannel.hu">
     <display-name lang="hu">Disney Channel</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/9068fdc6734f443a87f21848518d26df_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Duna.hu">
     <display-name lang="hu">Duna HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/ac7ccd844ac34c97a83e27699b8a07ec_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Duna2.hu">
     <display-name lang="hu">Duna World HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/54db2eaea8d44ccfb749a46ce02da18f_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="english-club">
     <display-name lang="hu">English Club</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/e50567bb40f94145aa3fd7089749db99_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="EpicDrama.hu">
     <display-name lang="hu">Epic Drama</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/19c59ad0166f418c99e8211bcfce648f_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Euronews.hu">
     <display-name lang="hu">Euronews</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/e164529790274a968ba15a0ee671053e_20/version/5"/>
   </channel>
-  <channel id="Eurosport1.hu">
     <display-name lang="hu">Eurosport1 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/4bbf370ba00b49139a229c6cfb241274_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Eurosport2.hu">
     <display-name lang="hu">Eurosport2 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/f2ae9a9fa56047069074061966d2120b_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="ExtremeSports.hu">
     <display-name lang="hu">Extreme Sports</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/ed59bdef92824e3aba00c373a23ecea2_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="ExtremeSports.hu">
     <display-name lang="hu">Extreme Sports Channel</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/ed59bdef92824e3aba00c373a23ecea2_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Fem3.hu">
     <display-name lang="hu">FEM3</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/8fdacb1a9b5d4fd39f41bc275eefefa7_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="FilmMania.hu">
     <display-name lang="hu">Film Mania</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/61c608c48167423cb6321bb91fd876d8_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Filmnow.hu">
     <display-name lang="hu">Film Now</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/film-now.png"/>
   </channel>
-  <channel id="FilmPlus.hu">
     <display-name lang="hu">Film+ HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/0271aa4e9b2b4392ac1a64e3d4768708_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Film4.hu">
     <display-name lang="hu">Film4</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/89788189ab5e4bcebfbfd19feac62fa6_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Filmbox.hu">
     <display-name lang="hu">Filmbox Basic</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/d27c154b083644388703411fb623c137_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="FilmboxFamily.hu">
     <display-name lang="hu">Filmbox Family</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/810bc37525df41e8856ad37a39f1f887_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="FilmboxPlus.hu">
     <display-name lang="hu">Filmbox Plus HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/6b6be5b2c8a449c0acc7580c57b609c4_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="FilmboxPremium.hu">
     <display-name lang="hu">Filmbox Premium</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/4efd24c28b414b7f9f9e7ba19ea07249_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="FilmCafe.hu">
     <display-name lang="hu">FilmCafe</display-name>
-    <icon src="https://static.mytvback.com/userfiles/d/b/db35c9749dd520be3742d93ad92f751f_thum_80x50.jpg"/>
   </channel>
-  <channel id="FishingHunting.hu">
     <display-name lang="hu">Fishing and Hunting</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/f5170c39fc5a482886b065071a0a368d_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="FoodNetwork.hu">
     <display-name lang="hu">Food Network</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/5d013d5ff73845cbbd72c213c50df761_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Galaxy.hu">
     <display-name lang="hu">Galaxy</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/ad1734bc2de14b7fbd98522894f127ca_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Htmusicchannel.hu">
     <display-name lang="hu">H!T Music Channel</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/h-t-music-channel.png"/>
   </channel>
-  <channel id="Hatoscsatorna.hu">
     <display-name lang="hu">Hatoscsatorna</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/ceba15ac38154d1cb04e87b1280e3eab_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="HBO.hu">
     <display-name lang="hu">HBO HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/864b974d9ace495293c3005f149a30e7_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="HBO2.hu">
     <display-name lang="hu">HBO2</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/28b97c4fe3d14cb8bd1238c845535c43_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="HBO3.hu">
     <display-name lang="hu">HBO3</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/1f16daef265b40e88b31bac8711f4e48_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="HirTV.hu">
     <display-name lang="hu">HirTV</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/6178b8dbd59b471e9fba34054f4df743_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="HISTORY.hu">
     <display-name lang="hu">History HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/06a3e9a3a7fd434287d442c790e967bf_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="InvestigationDiscovery.hu">
     <display-name lang="hu">Investigation Discovery</display-name>
-    <icon src="https://static.mytvback.com/userfiles/f/0/f090b866afeae90d94e7912fce4282bd_thum_80x50.jpg"/>
   </channel>
-  <channel id="IzauraTV.hu">
     <display-name lang="hu">Izaura TV</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/42b234e4c9c349619bcd0da357686ecf_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="JimJam.hu">
     <display-name lang="hu">Jim Jam</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/2157ff4fb8f34f82b0a62972434d58c8_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="JockyTV.hu">
     <display-name lang="hu">Jocky TV</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/f0579791044d43c68af46ab0121ecdee_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Lifenetwork.hu">
     <display-name lang="hu">LifeTv</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/c3d2b7bf84db4c21ba8bad8348395c39_19/version/2"/>
   </channel>
-  <channel id="m1.hu">
     <display-name lang="hu">M1 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/c808a390df95488fac01838fd159b237_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="m2.hu">
     <display-name lang="hu">M2 / Petőfi HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/052865ac08784f829678c9c0ffd2f3d6_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="M4Sport.hu">
     <display-name lang="hu">M4 Sport HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/666d765a9c4443dfb029905982a0a9f6_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="m5.hu">
     <display-name lang="hu">M5 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/f7247d002e2345179136269bd7ea6d12_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Minimax.hu">
     <display-name lang="hu">Minimax</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/0ce03e638e224743b40fff3a0426218c_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="MoziPlus.hu">
     <display-name lang="hu">Mozi+ HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/796db6ea79bf4d408299f80040e0b8b4_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Moziverzum.hu">
     <display-name lang="hu">Moziverzum HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/d1bf66b2c6c54e91997cd90376d0561e_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="MTVHungary.hu">
     <display-name lang="hu">MTV Hungary</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/44928c12695b4ab29ea5d3a77e21c59e_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="MusicChannel.hu">
     <display-name lang="hu">Music Channel</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/music-channel.png"/>
   </channel>
-  <channel id="MuzsikaTV.hu">
     <display-name lang="hu">Muzsika TV</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/5e853366e1a7411f839c6c685a636072_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="NationalGeographic.hu">
     <display-name lang="hu">National Geographic HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/e75e9bfb153c4e2aab82c9e79d1f81af_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="NatGeoWild.hu">
     <display-name lang="hu">National Geographic Wild</display-name>
-    <icon src="https://static.mytvback.com/userfiles/6/4/64cca39c18990e505d570c8ebec4d120_thum_80x50.jpg"/>
   </channel>
-  <channel id="NickJr.hu">
     <display-name lang="hu">Nick Jr</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/707452ed339548ec84c7f54203000e24_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Nickelodeon.hu">
     <display-name lang="hu">Nickelodeon</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/0bed4c98b3ea4cc899d92137348fb43b_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Nicktoons.hu">
     <display-name lang="hu">Nicktoons</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/c2c81fcf80eb45f2a4121c4c2ec2888f_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="OzoneNetwork.hu">
     <display-name lang="hu">OzoneTv</display-name>
-    <icon src="https://static.mytvback.com/userfiles/2/c/2c691aee280abd694ba32ab926875477_thum_80x50.jpg"/>
   </channel>
-  <channel id="ParamountChannel.hu">
     <display-name lang="hu">Paramount Channel HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/155be6aebfe840409a19af483b73a5ca_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="PAXTV.hu">
     <display-name lang="hu">PAX TV</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/4ab86d195814473ba7a25ab2e5455b07_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Prime.hu">
     <display-name lang="hu">Prime TV</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/96f0942d6c884831a7b6597c3104fac9_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="RTL2.hu">
     <display-name lang="hu">RTL 2 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/a8683742f8d54b93a33ecba3d9d6bb4f_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="RTLGold.hu">
     <display-name lang="hu">RTL Gold</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/2e25251af21741eea5e0bd0a143d5b97_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="RTLKlub.hu">
     <display-name lang="hu">RTL Klub HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/d9b899e7deea4abfb5d29b7525e41c18_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="RTLplus.hu">
     <display-name lang="hu">RTL+</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/de69edf14e8e402f802e7d4a277a3c0f_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="SlagerTV.hu">
     <display-name lang="hu">Sláger TV</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/45b318bc7cb340e29179c98c52d42168_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="SonyMax.hu">
     <display-name lang="hu">Sony Max</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/9df1196c0332489f8ee1f65f4150eaf1_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="SonyMovieChannel.hu">
     <display-name lang="hu">Sony Movie Channel</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/6441f9ed6a3e4ef89fee0feb1ab51610_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Sorozat.hu">
     <display-name lang="hu">Sorozat +</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/628e148a6ac94e1a813abbe78a4755ad_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Spektrum.hu">
     <display-name lang="hu">Spektrum HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/9dadb1229f214a94b367b8ec38e720de_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="SpektrumHome.hu">
     <display-name lang="hu">Spektrum Home</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/1a6bc39b6adb4da3a9f7141e72d65cf9_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="SpilerTV.hu">
     <display-name lang="hu">Spíler1 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/7852a7aa4b254768a4d2404cc36ce49d_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Sport1.hu">
     <display-name lang="hu">Sport1 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/edc4e754b3724185a6adc4f774702934_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Sport2.hu">
     <display-name lang="hu">Sport2 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/e2d64b7cb7494466a25e4a79ca405d72_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="SuperTV2.hu">
     <display-name lang="hu">Super TV2 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/72c377a453b24354b9a8efa402447a0f_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="TeenNick.hu">
     <display-name lang="hu">TeenNick</display-name>
-    <icon src="https://static.mytvback.com/userfiles/6/b/6b2e4ad0ffb6e8172c512a5f5cc837bd_thum_80x50.png"/>
   </channel>
-  <channel id="TLC.hu">
     <display-name lang="hu">TLC</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/bb616a45e26b476fa6ac3c66038ae093_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="TravelChannel.hu">
     <display-name lang="hu">Travel HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/298b8045296e4d9e82a284f7168f610f_20/version/0/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="TVPaprika.hu">
     <display-name lang="hu">TV Paprika</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/6701fa4d4ded43abaf3073b78b193f9f_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Humor+.hu">
     <display-name lang="hu">TV2 Comedy</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/a5ebb8d36d3d4d1789eeb5280e5cc3bc_20/version/6/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="tv2.hu">
     <display-name lang="hu">TV2 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/ae00889c81e94e6d95c47c3a2de0f174_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="KiwiTV.hu">
     <display-name lang="hu">TV2 Kids</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/2cd07ca724e941fcb427fc7e7b4f5302_20/version/5/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="ChiliTV.hu">
     <display-name lang="hu">TV2 Séf</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/24844092c37c42a391f94f75e3cb0b2c_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="TV4.hu">
     <display-name lang="hu">TV4</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/7327c2474c314ad182ca1ba0b3d45817_20/version/1/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="ViasatExplorer.hu">
     <display-name lang="hu">Viasat Explore</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/a70dda0e7742432e853e82e9002657c8_20/version/2/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="ViasatHistory.hu">
     <display-name lang="hu">Viasat History SD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/3e099827ec7842e2ae028be66b8c1bc0_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="ViasatNature.hu">
     <display-name lang="hu">Viasat Nature</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/viasat-nature.png"/>
   </channel>
-  <channel id="Viasat3.hu">
     <display-name lang="hu">Viasat3 HD</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/0a483ec1c6384aa69c2e4ed71d40b777_20/version/3/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="VIASAT6.hu">
     <display-name lang="hu">Viasat6</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/3ce3aafd82534c29afda7be2b531df84_20/version/4/width/120/height/75/quality/100"/>
   </channel>
-  <channel id="Zenebutik.hu">
     <display-name lang="hu">Zenebutik</display-name>
-    <icon src="https://3047.images-vfp1.ott.kaltura.com/Service.svc/GetImage/p/3047/entry_id/21859a0df91149c3bcdc3996ddaee720_20/version/2/width/120/height/75/quality/100"/>
   </channel>
   <programme start="20241231200000 +0100" stop="20241231205500 +0100" channel="ViasatNature.hu">
     <title lang="hu">Csodálatos Mexikó</title>
@@ -31875,4 +31653,4 @@
     <title lang="hu">Kerülj beljebb dicsőitő Szentségimádás</title>
     <desc lang="hu">Kerülj beljebb dicsőitő Szentségimádás</desc>
   </programme>
-</tv><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8fb3d5094fd25b49',t:'MTczNTc0ODM3OS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
+</tv><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8fb41032aa8f5a3c',t:'MTczNTc1MDgwMi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
